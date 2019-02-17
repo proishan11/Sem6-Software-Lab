@@ -1,0 +1,15 @@
+Q:{A,B,C}
+Σ:{0,1}
+I:A
+F:{C}
+
+T1:A,0,C
+T2:A,1,B
+T3:B,0,B
+T4:B,1,B
+T5:C,0,C
+T6:C,1,C
+T5:C,a,D
+T6:C,b,A
+T7:D,a,C
+T8:D,b,B
